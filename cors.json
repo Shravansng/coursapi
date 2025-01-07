@@ -1,0 +1,102 @@
+[
+  {
+    "id": "324857",
+    "title": "Python full course",
+    "poster": "https://images.prismic.io/turing/652ec05dfbd9a45bcec818e2_Best_Python_Books_2022_11zon_cd35606f7a.webp?auto=format%2Ccompress&fit=max&w=1920",
+    "rating": 7.5,
+    "imglist": [
+      "https://i.postimg.cc/28JNsmYT/Lecture1-py-pages-to-jpg-0001.jpg",
+      "https://i.postimg.cc/W17LwZTz/Lecture1-py-pages-to-jpg-0002.jpg",
+      "https://i.postimg.cc/tJ68ZZBX/Lecture1-py-pages-to-jpg-0003.jpg",
+      "https://i.postimg.cc/HsGqGzLj/Lecture1-py-pages-to-jpg-0004.jpg",
+      "https://i.postimg.cc/KvndmTKf/Lecture1-py-pages-to-jpg-0005.jpg",
+      "https://i.postimg.cc/K8xCjYB2/Lecture1-py-pages-to-jpg-0006.jpg",
+      "https://i.postimg.cc/Mp5NQ8mj/Lecture1-py-pages-to-jpg-0007.jpg",
+      "https://i.postimg.cc/W44Kmf5Y/Lecture1-py-pages-to-jpg-0008.jpg",
+      "https://i.postimg.cc/mDz5J1fQ/Lecture1-py-pages-to-jpg-0009.jpg",
+      "https://i.postimg.cc/ZRGMSY4X/Lecture1-py-pages-to-jpg-0010.jpg",
+      "https://i.postimg.cc/xdFZ6y7f/Lecture1-py-pages-to-jpg-0011.jpg",
+      "https://i.postimg.cc/GtvSh0pt/Lecture1-py-pages-to-jpg-0012.jpg",
+      "https://i.postimg.cc/sD90kR80/Lecture1-py-pages-to-jpg-0013.jpg",
+      "https://i.postimg.cc/7PzRNzN4/Lecture1-py-pages-to-jpg-0014.jpg",
+      "https://i.postimg.cc/CLVQrKvq/Lecture1-py-pages-to-jpg-0015.jpg",
+      "https://i.postimg.cc/VN7x3cSc/Lecture1-py-pages-to-jpg-0016.jpg",
+      "https://i.postimg.cc/jjdVgjSX/Lecture1-py-pages-to-jpg-0017.jpg",
+      "https://i.postimg.cc/KvBy4VWn/Lecture1-py-pages-to-jpg-0018.jpg",
+      "https://i.postimg.cc/4dmDGFtH/Lecture1-py-pages-to-jpg-0019.jpg",
+      "https://i.postimg.cc/nzg6hYYR/Lecture1-py-pages-to-jpg-0020.jpg",
+      "https://i.postimg.cc/zDHsP689/Lecture1-py-pages-to-jpg-0021.jpg",
+    ],
+    "language": "Python",
+    "Description": "Today Python is used in all kinds of development from game development, basic programming, and scripting to large and complex software development. It has a large community support and is rich in the library, having all kinds of frameworks for backend, frontend and you name it python has it all."
+  },
+  {
+    "id": "324858",
+    "title": "Java full course",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijZZ-lneZYV6hHF_ghrc-Q35qv3xlAmAH-Q&s",
+    "rating": 7.5,
+    "imglist": [
+      "https://images.prismic.io/turing/652ec05dfbd9a45bcec818e2_Best_Python_Books_2022_11zon_cd35606f7a.webp?auto=format%2Ccompress&fit=max&w=1920",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijZZ-lneZYV6hHF_ghrc-Q35qv3xlAmAH-Q&s",
+      "https://images.prismic.io/turing/652ec05dfbd9a45bcec818e2_Best_Python_Books_2022_11zon_cd35606f7a.webp?auto=format%2Ccompress&fit=max&w=1920"
+    ],
+    "language": "Java",
+    "Description": "Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is intended to let application developers Write Once and Run Anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation."
+  },
+  {
+    "id": "324857",
+    "title": "the full course",
+    "poster": "https://images.prismic.io/turing/652ec05dfbd9a45bcec818e2_Best_Python_Books_2022_11zon_cd35606f7a.webp?auto=format%2Ccompress&fit=max&w=1920",
+    "rating": 7.5,
+    "language": "Python",
+    "releaseDate": 1544140800
+  },
+  {
+    "id": "324857",
+    "title": "the full course",
+    "poster": "https://images.prismic.io/turing/652ec05dfbd9a45bcec818e2_Best_Python_Books_2022_11zon_cd35606f7a.webp?auto=format%2Ccompress&fit=max&w=1920",
+    "rating": 7.5,
+    "language": "Python",
+    "releaseDate": 1544140800
+  },
+  {
+    "id": "324857",
+    "title": "the full course",
+    "poster": "https://images.prismic.io/turing/652ec05dfbd9a45bcec818e2_Best_Python_Books_2022_11zon_cd35606f7a.webp?auto=format%2Ccompress&fit=max&w=1920",
+    "rating": 7.5,
+    "language": "Python",
+    "releaseDate": 1544140800
+  },
+  {
+    "id": "324857",
+    "title": "the full course",
+    "poster": "https://images.prismic.io/turing/652ec05dfbd9a45bcec818e2_Best_Python_Books_2022_11zon_cd35606f7a.webp?auto=format%2Ccompress&fit=max&w=1920",
+    "rating": 7.5,
+    "language": "Python",
+    "releaseDate": 1544140800
+  },
+  {
+    "id": "324857",
+    "title": "the full course",
+    "poster": "https://images.prismic.io/turing/652ec05dfbd9a45bcec818e2_Best_Python_Books_2022_11zon_cd35606f7a.webp?auto=format%2Ccompress&fit=max&w=1920",
+    "rating": 7.5,
+    "language": "Python",
+    "releaseDate": 1544140800
+  },
+  {
+    "id": "324857",
+    "title": "the full course",
+    "poster": "https://images.prismic.io/turing/652ec05dfbd9a45bcec818e2_Best_Python_Books_2022_11zon_cd35606f7a.webp?auto=format%2Ccompress&fit=max&w=1920",
+    "rating": 7.5,
+    "language": "Python",
+    "releaseDate": 1544140800
+  },
+  {
+    "id": "324857",
+    "title": "the full course",
+    "poster": "https://images.prismic.io/turing/652ec05dfbd9a45bcec818e2_Best_Python_Books_2022_11zon_cd35606f7a.webp?auto=format%2Ccompress&fit=max&w=1920",
+    "rating": 7.5,
+    "language": "Python",
+    "releaseDate": 1544140800
+  }
+]
